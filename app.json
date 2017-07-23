@@ -1,0 +1,7 @@
+{
+	"name": "New App",
+	"description":"App new",
+	"repository" : "https://github.com/HousingPrediction/Rhinotorevit.git",
+	"keywords": ["node", "express", "static"],
+	"image": "heroku/nodejs"
+}
